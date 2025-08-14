@@ -49,17 +49,18 @@ It was designed to match the provided Figma UI exactly, ensuring pixel-perfect f
 
 | Dashboard | Bond Chart | Bond Details |
 |-----------|------------|--------------|
-| ![Dashboard](assets/readme/screenshot_1.png) | ![Chart](assets/readme/screenshot_2.png) | ![Details](assets/readme/screenshot_3.png) |
+| ![Dashboard](https://github.com/user-attachments/assets/3a6bd60c-1ef1-4853-b1b0-28c6b90c26cc) | ![Bond Details](https://github.com/user-attachments/assets/6feff81c-e0a9-4b20-bed0-a708358129f7) | ![Bond Details](https://github.com/user-attachments/assets/a17cd5f6-d3c6-439c-aede-556512f7f44e) |
 
 | Filters | Summary View |
 |---------|--------------|
-| ![Filters](assets/readme/screenshot_4.png) | ![Summary](assets/readme/screenshot_5.png) |
+| ![Filters](https://github.com/user-attachments/assets/310cd8b6-2800-40d5-9dfa-6b3d6a285446) | ![Summary](https://github.com/user-attachments/assets/3ed97ebb-5796-4873-9a1e-af53ac536099) |
+
 
 ---
 
 ## 🎥 Video Demo
 
-[![Watch the video](assets/readme/video_thumb.png)](https://youtu.be/your-video-link) 
+[![Watch the video](https://drive.google.com/file/d/1ZKvC8UvnDuudqOovlFv4COOosx5Hwujh/view?usp=sharing) 
 
 
 
