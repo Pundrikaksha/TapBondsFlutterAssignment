@@ -43,29 +43,26 @@ It was designed to match the provided Figma UI exactly, ensuring pixel-perfect f
    - Fully responsive UI for different screen sizes.
 
 ---
+---
 
-## 🛠 Tech Stack
+## 📸 Screenshots
 
-- **Framework**: Flutter (Dart)
-- **State Management**: BLoC / Cubit
-- **Code Generation**: Freezed
-- **Dependency Injection**: getIt + injectable
-- **Charts**: FL Chart
-- **Animations**: AnimationController, Hero transitions, custom curves
-- **Haptic Feedback**: Flutter's `HapticFeedback` API
-- **Testing**: `flutter_test`, `mocktail`
+| Dashboard | Bond Chart | Bond Details |
+|-----------|------------|--------------|
+| ![Dashboard](assets/readme/screenshot_1.png) | ![Chart](assets/readme/screenshot_2.png) | ![Details](assets/readme/screenshot_3.png) |
+
+| Filters | Summary View |
+|---------|--------------|
+| ![Filters](assets/readme/screenshot_4.png) | ![Summary](assets/readme/screenshot_5.png) |
 
 ---
 
-## 📂 Project Structure
+## 🎥 Video Demo
 
-```plaintext
-lib/
- ├── core/               # App constants, themes, utilities
- ├── data/               # Models, repositories, API calls
- ├── di/                 # Dependency injection configuration
- ├── features/           # Feature-based structure
- │    ├── presentation/  # UI + Cubit/BLoC + Widgets
- │    ├── domain/        # Entities & use cases
- │    └── data/          # Feature-specific data layer
- ├── main.dart           # App entry point
+[![Watch the video](assets/readme/video_thumb.png)](https://youtu.be/your-video-link) 
+
+
+
+---
+
+
