@@ -60,7 +60,7 @@ It was designed to match the provided Figma UI exactly, ensuring pixel-perfect f
 
 ## 🎥 Video Demo
 
-[![Watch the video](https://drive.google.com/file/d/1ZKvC8UvnDuudqOovlFv4COOosx5Hwujh/view?usp=sharing) 
+[![Watch the video] (https://drive.google.com/file/d/1ZKvC8UvnDuudqOovlFv4COOosx5Hwujh/view?usp=sharing) 
 
 
 
